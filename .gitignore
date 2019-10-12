@@ -1,0 +1,5 @@
+template.yml
+vendor/*
+function.zip
+packaged-template.yaml
+.env
